@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/ChinnaAvula/react-verzeo-project.git/static/css/main.c16557ee.css",
+    "main.js": "/ChinnaAvula/react-verzeo-project.git/static/js/main.332a129c.js",
+    "static/media/product3.jpg": "/ChinnaAvula/react-verzeo-project.git/static/media/product3.69bf8909b52b866f1141.jpg",
+    "static/media/homepage.jpg": "/ChinnaAvula/react-verzeo-project.git/static/media/homepage.6d4ab8e7437e971b3ae8.jpg",
+    "static/media/product5.jpg": "/ChinnaAvula/react-verzeo-project.git/static/media/product5.4490f15f71f3d278a532.jpg",
+    "static/media/product4.jpg": "/ChinnaAvula/react-verzeo-project.git/static/media/product4.7beb6de77dff91779c24.jpg",
+    "static/media/homepage1.jpg": "/ChinnaAvula/react-verzeo-project.git/static/media/homepage1.cb8df1002bd7c0c7b6dc.jpg",
+    "static/media/product2.jpg": "/ChinnaAvula/react-verzeo-project.git/static/media/product2.30e6e4bc24cb9bdd0b09.jpg",
+    "static/media/homepage2.jpg": "/ChinnaAvula/react-verzeo-project.git/static/media/homepage2.0824bb23cfe3bf7ac410.jpg",
+    "static/media/product7.jpg": "/ChinnaAvula/react-verzeo-project.git/static/media/product7.bf91a8967ef904bfa3d7.jpg",
+    "static/media/product6.jpg": "/ChinnaAvula/react-verzeo-project.git/static/media/product6.f2b43cb84326f8002a95.jpg",
+    "static/media/homepage3.jpg": "/ChinnaAvula/react-verzeo-project.git/static/media/homepage3.f36d53e5cf47ea3d8682.jpg",
+    "static/media/product8.jpg": "/ChinnaAvula/react-verzeo-project.git/static/media/product8.bd434e34b4a69a233109.jpg",
+    "static/media/product.jpg": "/ChinnaAvula/react-verzeo-project.git/static/media/product.7e1d80928e1f22431e73.jpg",
+    "static/media/product1.jpg": "/ChinnaAvula/react-verzeo-project.git/static/media/product1.563e6e2198697a7be34d.jpg",
+    "index.html": "/ChinnaAvula/react-verzeo-project.git/index.html",
+    "main.c16557ee.css.map": "/ChinnaAvula/react-verzeo-project.git/static/css/main.c16557ee.css.map",
+    "main.332a129c.js.map": "/ChinnaAvula/react-verzeo-project.git/static/js/main.332a129c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c16557ee.css",
+    "static/js/main.332a129c.js"
+  ]
+}
