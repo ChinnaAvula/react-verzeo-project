@@ -19,6 +19,7 @@ function Aboutus(){
         <h3>Images</h3>
         <img src={about} alt='beach image' width='500px' height='300px'/>
         <img src={about1} alt='baloon image' width='500px' height='300px'/>
+        <input type="image" img src = {'https://robohash.org/${id}?size=300x300'} alt="photo" />
 
 
         </div>
